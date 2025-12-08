@@ -1,6 +1,12 @@
----------------------------->> v10.0.2 <<----------------------------
+---------------------------->> v10.1.0 <<----------------------------
 Added licensing fallback
 Repaired du command
+Fixed opening issue bug
+Fixed make_ext4fs super build bug
+Stronger validation of failed creation of partitions
+Allow bigger size repacking
+e2fs tools added back
+Updated logic for repacking manufacturer image
 
 ---------------------------->> v10.0.1 <<----------------------------
 Fixed update module
